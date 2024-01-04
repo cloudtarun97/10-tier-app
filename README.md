@@ -1,13 +1,9 @@
-<p align="center">
-<img src="/src/frontend/static/icons/Hipster_HeroLogoMaroon.svg" width="300" alt="Online Boutique" />
-</p>
+
 
 ## Architecture
 
 **Online Boutique** is composed of 11 microservices written in different
 languages that talk to each other over gRPC.
-
-
 
 Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
 
